@@ -1,4 +1,4 @@
-#### Java program for adding two numbers####
+#### Java program for subtracting two numbers####
 public class AddTwoNumbers {
 
    public static void main(String[] args) {
